@@ -129,4 +129,4 @@ The project includes **20 visualizations** covering the following analyses:
 
 ## Project Outcome
 
-This project demonstrates how **Exploratory Data Analysis (EDA)** can transform raw application data into meaningful business insights. The findings can help developers improve application quality, enhance user satisfaction, understand customer preferences, and make data-driven decisions to increase app performance and long-term success.enhance customer satisfaction, and make informed strategic decisions for long-term growth.
+This project demonstrates how **Exploratory Data Analysis (EDA)** can transform raw application data into meaningful business insights. The findings can help developers improve application quality, enhance user satisfaction, understand customer preferences, and make data-driven decisions to increase app performance and long-term success.
